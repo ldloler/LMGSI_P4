@@ -1,0 +1,65 @@
+* {
+    font-family: Geneva, Verdana, sans-serif
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    font-size: 25px;
+    padding: 30px;
+}
+
+.hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+tr.titol>td,
+tr.titol>th {
+    background-color: black;
+    color: white;
+}
+
+.descans {
+    text-size-adjust: 20px;
+    padding: 15px;
+}
+
+.ang {
+    background-color: palegreen;
+}
+
+.si {
+    background-color: green;
+}
+
+.ped {
+    background-color: greenyellow;
+}
+
+.sge {
+    background-color: orange;
+}
+
+.lmsgi {
+    background-color: purple;
+}
+
+.BBDD {
+    background-color: orangered;
+}
+
+.ipoi {
+    background-color: aqua;
+}
+
+.tut {
+    background-color: yellow;
+}
